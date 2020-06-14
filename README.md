@@ -1,7 +1,7 @@
-# Impressora 3D - Cherry
-Impressora 3D de baixo Custo.
+# 3D printer - Cherry
+Low cost 3D printer.
 
-## Partes Mecâncias  
+## Merchanical parts  
 
 ### Structure 
 

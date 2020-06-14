@@ -32,13 +32,12 @@ Low cost 3D printer.
 | Wood screw | 12 unidades ||
 
 ## Other 
-
-| **Description**          | **Quantity** |
-|:----------------------|:---------------|
-| Drivergear MK8 | 1 un | 
-| GT2 pulley | 2 un | 
-| GT2 belt (1m) | 2 unidades | 
-| PTFE tube  | 1 Kit |
+| **Description**       | **Quantity** | **Stauts** |
+|:----------------------|:---------------|:-|
+| Drivergear MK8 | 1 un | |
+| GT2 pulley | 2 un | Ok |
+| GT2 belt (1m) | 2 unidades | OK | 
+| PTFE tube  | 1 Kit ||
 
 
 

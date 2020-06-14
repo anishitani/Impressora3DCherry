@@ -3,46 +3,46 @@ Impressora 3D de baixo Custo.
 
 ## Partes Mecâncias  
 
-### MDF 
+### Structure 
 
-|  **Tamanho**   |  **Qunatidade** |
+|  **Size**   |  **Quantity** |
 |:--------------|:---------------:|
 |  30X34 cm      | 1               |
 |  6x4 cm        | 2               |
 |  34x6 cm       | 1               |
 |  15x4 cm       | 1               |
 
-### Ferragens 
+### Hardware
 
-| **Descrição**          | **Quantidade** |
+| **Description**       | **Quantity** | **Stauts** |
+|:----------------------|:-------------|:-----------|
+| Bearings  LM8UU | 12 un ||
+| Bearing 624zz | 10 un ||
+| Smooth rod 8 mm - 22cm | 2 un     | Ok |
+| Smooth rod 8 mm - 17,5cm |4 unidades | Ok|
+| Threaded rod M5 | 2 un | Ok |
+| M5 hex-nut | 2 un | Ok |
+| M3X16mm screw | 8 un | Ok |
+| M3X25mm screw | 6 un ||
+| M4X45mm screw | 4 un ||
+| M4X60mm screw | 2 un ||
+| M4X20mm screw | 4 un ||
+| M4 hex-nut | 20 un | Ok |
+| M3 hex-nut | 10 un | Ok |
+| Wood screw | 12 unidades ||
+
+## Other 
+
+| **Description**          | **Quantity** |
 |:----------------------|:---------------|
-| Rolamento  LM8UU | 12 unidades |
-| Rolamento 624 | 10 unidades |
-| Barra lisa 8 mm - 22cm | 2 unidades     |
-| Barra lisa 8 mm - 17,5cm |4 unidades |
-| Haste de rosca M5 | 1 unidade | 
-| Porca M5 | 2 unidades | 
-| Parafusos M3X16mm | 8 unidades |
-| Parafusos M3X25mm | 6 unidades |
-| Parafusos M4X45mm | 4 unidades |
-| Parafusos M4X60mm | 2 unidades |
-| Parafusos M4X20mm | 4 unidades |
-| Porca M4 | 20 unidades |
-| Porca M3 | 10 unidades |
-| Parafuso para madeira | 12 unidades |
-
-## Outros 
-
-| **Descrição**          | **Quantidade** |
-|:----------------------|:---------------|
-| Drivergear MK8 | 1 Unidade | 
-| Polia GT2 | 2 Unidades | 
-| 1m de correia GT2 | 2 unidades | 
-| Bico com Tubo de PTFE  | 1 Kit |
+| Drivergear MK8 | 1 un | 
+| GT2 pulley | 2 un | 
+| GT2 belt (1m) | 2 unidades | 
+| PTFE tube  | 1 Kit |
 
 
 
 
-## Referências
-* Página do projeto no _Instructables_ <http://www.instructables.com/id/Cherry-60-3D-Printer/?ALLSTEPS> 
-* Página do projeto no _thinginverse_ <http://www.thingiverse.com/thing:874502> 
+## References
+* Assemble instructions page _Instructables_ <http://www.instructables.com/id/Cherry-60-3D-Printer/?ALLSTEPS> 
+* Parts sketch page _thinginverse_ <http://www.thingiverse.com/thing:874502> 

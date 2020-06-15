@@ -16,10 +16,10 @@ Low cost 3D printer.
 
 | **Description**       | **Quantity** | **Stauts** |
 |:----------------------|:-------------|:-----------|
-| Bearings  LM8UU | 12 un ||
-| Bearing 624zz | 10 un ||
-| Smooth rod 8 mm - 22cm | 2 un     | Ok |
-| Smooth rod 8 mm - 17,5cm |4 unidades | Ok|
+| Bearings  LM8UU | 12 un | Ok |
+| Bearing 624zz | 10 un | Ok |
+| Smooth rod 8 mm - 22cm | 2 un | Ok |
+| Smooth rod 8 mm - 17,5cm |4 un | Ok|
 | Threaded rod M5 | 2 un | Ok |
 | M5 hex-nut | 2 un | Ok |
 | M3X16mm screw | 8 un | Ok |

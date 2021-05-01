@@ -23,10 +23,10 @@ Low cost 3D printer.
 | Threaded rod M5 | 2 un | Ok |
 | M5 hex-nut | 2 un | Ok |
 | M3X16mm screw | 8 un | Ok |
-| M3X25mm screw | 6 un ||
-| M4X45mm screw | 4 un ||
+| M3X25mm screw | 6 un | Ok |
+| M4X45mm screw | 4 un | Ok |
 | M4X60mm screw | 2 un ||
-| M4X20mm screw | 4 un ||
+| M4X20mm screw | 4 un | Ok |
 | M4 hex-nut | 20 un | Ok |
 | M3 hex-nut | 10 un | Ok |
 | Wood screw | 12 unidades ||
